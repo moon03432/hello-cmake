@@ -1,3 +1,0 @@
-/Users/moon/Workspace/c/hello-world/build/CMakeFiles/rebuild_cache.dir
-/Users/moon/Workspace/c/hello-world/build/CMakeFiles/edit_cache.dir
-/Users/moon/Workspace/c/hello-world/build/CMakeFiles/hello.dir
